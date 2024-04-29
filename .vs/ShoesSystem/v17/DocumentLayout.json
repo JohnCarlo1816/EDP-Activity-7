@@ -1,61 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\EDP\\ShoesSystem\\",
+  "WorkspaceRootPath": "E:\\EDP\\EDP-Activity-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|e:\\edp\\edp-activity-7\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|e:\\edp\\edp-activity-7\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|e:\\edp\\shoessystem\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\ShoesSystem\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|e:\\edp\\edp-activity-7\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|E:\\EDP\\EDP-Activity-7\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93AA618D-9D8E-4B69-A728-79752AC48818}|ShoesSystem.csproj|solutionrelative:password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -66,27 +74,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "AddAccount.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\AddAccount.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\AddAccount.cs",
               "RelativeDocumentMoniker": "AddAccount.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\AddAccount.cs [Design]",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\AddAccount.cs [Design]",
               "RelativeToolTip": "AddAccount.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T07:28:45.08Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Form1.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\Form1.cs [Design]",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T07:11:59.128Z",
@@ -95,86 +104,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Dashboard.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Dashboard.cs",
               "RelativeDocumentMoniker": "Dashboard.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\Dashboard.cs [Design]",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Dashboard.cs [Design]",
               "RelativeToolTip": "Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T07:21:14.554Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "About.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\About.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\About.cs",
               "RelativeDocumentMoniker": "About.cs",
               "ToolTip": "E:\\EDP\\ShoesSystem\\About.cs [Design]",
-              "RelativeToolTip": "About.cs [Design]",
+              "RelativeToolTip": "..\\ShoesSystem\\About.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-20T06:02:21Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Brand.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Brand.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Brand.cs",
               "RelativeDocumentMoniker": "Brand.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\Brand.cs [Design]",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Brand.cs [Design]",
               "RelativeToolTip": "Brand.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T07:08:50.225Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Password.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Password.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Password.cs",
               "RelativeDocumentMoniker": "Password.cs",
               "ToolTip": "E:\\EDP\\ShoesSystem\\Password.cs [Design]",
-              "RelativeToolTip": "Password.cs [Design]",
+              "RelativeToolTip": "..\\ShoesSystem\\Password.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T02:05:34.016Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Users.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Users.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Users.cs",
               "RelativeDocumentMoniker": "Users.cs",
               "ToolTip": "E:\\EDP\\ShoesSystem\\Users.cs [Design]",
-              "RelativeToolTip": "Users.cs [Design]",
+              "RelativeToolTip": "..\\ShoesSystem\\Users.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T13:39:07.22Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Users.cs",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Users.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Users.cs",
               "RelativeDocumentMoniker": "Users.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\Users.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Users.cs",
               "RelativeToolTip": "Users.cs",
               "ViewState": "AQIAAAUCAAAAAAAAAAAcwPcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T15:24:42.492Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Form1.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\Form1.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAwwEwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "OrderDetails.cs",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\OrderDetails.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\OrderDetails.cs",
               "RelativeDocumentMoniker": "OrderDetails.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\OrderDetails.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\OrderDetails.cs",
               "RelativeToolTip": "OrderDetails.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAowGUAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,36 +207,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "OrderDetails.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\OrderDetails.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\OrderDetails.cs",
               "RelativeDocumentMoniker": "OrderDetails.cs",
               "ToolTip": "E:\\EDP\\ShoesSystem\\OrderDetails.cs [Design]",
-              "RelativeToolTip": "OrderDetails.cs [Design]",
+              "RelativeToolTip": "..\\ShoesSystem\\OrderDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T08:03:55.414Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProductInventory.cs [Design]",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\ProductInventory.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\ProductInventory.cs",
               "RelativeDocumentMoniker": "ProductInventory.cs",
               "ToolTip": "E:\\EDP\\ShoesSystem\\ProductInventory.cs [Design]",
-              "RelativeToolTip": "ProductInventory.cs [Design]",
+              "RelativeToolTip": "..\\ShoesSystem\\ProductInventory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T06:34:33.635Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ProductInventory.cs",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\ProductInventory.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\ProductInventory.cs",
               "RelativeDocumentMoniker": "ProductInventory.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\ProductInventory.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\ProductInventory.cs",
               "RelativeToolTip": "ProductInventory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,15 +244,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Products.cs",
+              "RelativeToolTip": "Products.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:05:16.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Products.cs [Design]",
+              "RelativeToolTip": "Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:02:40.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Dashboard.cs",
-              "DocumentMoniker": "E:\\EDP\\ShoesSystem\\Dashboard.cs",
+              "DocumentMoniker": "E:\\EDP\\EDP-Activity-7\\Dashboard.cs",
               "RelativeDocumentMoniker": "Dashboard.cs",
-              "ToolTip": "E:\\EDP\\ShoesSystem\\Dashboard.cs",
+              "ToolTip": "E:\\EDP\\EDP-Activity-7\\Dashboard.cs",
               "RelativeToolTip": "Dashboard.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAD4v2EAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T04:32:18.093Z"
+              "WhenOpened": "2024-04-13T04:32:18.093Z",
+              "EditorCaption": ""
             }
           ]
         }
